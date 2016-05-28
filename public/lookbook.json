@@ -1,0 +1,5 @@
+{ 
+   "name":"look1",
+   "gender":"female",
+   "imageURL":"http://localhost:8000/public/images/look1/L1_Main_look.jpeg"
+}

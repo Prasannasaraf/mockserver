@@ -1,0 +1,76 @@
+{
+  "Jacket" : [ {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Jacket_Hooded_jacket.png" ],
+    "name" : "Hooded jacket",
+    "primary" : true,
+    "productCode" : "2"
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Jacket_Leather_jacket.png" ],
+    "name" : "Leather jacket",
+    "primary" : false,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Jacket_Hooded_jacket_Denim_jacket.png" ],
+    "name" : "Denim jacket",
+    "primary" : false,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Jacket_Hooded_black_jacket.png" ],
+    "name" : "Hooded black jacket",
+    "primary" : false,
+    "productCode" : null
+  } ],
+  "Top" : [ {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Top_Slub_jersey_tshirt.png" ],
+    "name" : "Slub jersey",
+    "primary" : true,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Top_Raw_blue_tshirt.png" ],
+    "name" : "Raw blue",
+    "primary" : false,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Top_Artic_white_tshirt.png" ],
+    "name" : "Artic white",
+    "primary" : false,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Top_Printed_tshirt.png" ],
+    "name" : "Printed-T-shirt",
+    "primary" : false,
+    "productCode" : null
+  } ],
+  "Lower" : [ {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Lower_Linen_trousers.png" ],
+    "name" : "Linen trousers",
+    "primary" : true,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Lower_Chinos_skinny_fit.png" ],
+    "name" : "Chinos skinny fit",
+    "primary" : false,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Lower_Retro_denim_shorts.png" ],
+    "name" : "Retro denim shorts",
+    "primary" : false,
+    "productCode" : null
+  } ],
+  "Shoes" : [ {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Shoes_Blue_trainers.png" ],
+    "name" : "Blue trainers",
+    "primary" : true,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Shoes_Slip_on_trainers.png" ],
+    "name" : "Slip on trainers",
+    "primary" : false,
+    "productCode" : null
+  }, {
+    "images" : [ "https://s3-ap-southeast-1.amazonaws.com/digitalmirror/lookbooks/lookbook2/L2_Men_Shoes_Twill_trainers.png" ],
+    "name" : "Twill trainers",
+    "primary" : false,
+    "productCode" : null
+  } ]
+}
